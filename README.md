@@ -3,7 +3,7 @@
 A web application which is useful for management of food donation and collection activities.  
 
 
-## Table of Contents
+## Table of Contents  
 
 - [Features](#features)
 - [Technologies used](#technologies-used)

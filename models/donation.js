@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+ 
 const donationSchema = new mongoose.Schema({
 	donor: {
 		type: mongoose.Schema.Types.ObjectId,

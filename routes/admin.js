@@ -1,4 +1,4 @@
-const express = require("express");
+const express = require("express"); 
 const router = express.Router();
 const middleware = require("../middleware/index.js");
 const User = require("../models/user.js");

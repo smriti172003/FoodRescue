@@ -1,4 +1,4 @@
-const middleware = {  
+const middleware = {   
 	ensureLoggedIn: (req, res, next) => {
 		if(req.isAuthenticated()) {
 			return next();

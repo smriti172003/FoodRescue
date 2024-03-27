@@ -6,7 +6,7 @@ const middleware = {
 		req.flash("warning", "Please log in first to continue");
 		res.redirect("/auth/login");
 	},
-	  
+	     
 	ensureAdminLoggedIn: (req, res, next) => {
 		if(req.isUnauthenticated()) {
 			req.session.returnTo = req.originalUrl;

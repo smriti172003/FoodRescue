@@ -29,13 +29,15 @@ A web application which is useful for management of food donation and collection
 - Donors can view their current incomplete donations (if any).
 - Donors can also view all their past donations.
 - Donors can update their profile.
-
-- As a Donor
+  
+As a Donor
 ![image](https://github.com/user-attachments/assets/b04d085e-3b7e-43ca-85ea-5f0f3a0b236c)
 ![image](https://github.com/user-attachments/assets/03b8ade1-6f92-4b08-ab66-886b1aa8a04a)
 ![image](https://github.com/user-attachments/assets/8336cef6-24ec-406c-8170-e6ba1531b9b2)
 ![image](https://github.com/user-attachments/assets/7e72d56c-7d0d-4990-bef9-d27c87e7767f)
 ![image](https://github.com/user-attachments/assets/4746fc02-4c91-43ea-aeb7-bfda97835d01)
+
+
 ### Admin Features
 
 - Admins receive all the requests made by donors.
@@ -59,6 +61,13 @@ A web application which is useful for management of food donation and collection
 - Agents can mark their collection upon collection of food from donor's home.
 - Agents can also view all those food donations which have been collected by them previously.
 - Agents can update their profile.
+
+  As a agent
+  ![image](https://github.com/user-attachments/assets/b750e911-998b-4286-addc-1f27e92a994e)
+  ![image](https://github.com/user-attachments/assets/27e5ad5c-6e37-4adf-9c56-901146773bc0)
+  ![image](https://github.com/user-attachments/assets/1c9cf873-0f8f-4b34-a9b4-3965b5480585)
+  ![image](https://github.com/user-attachments/assets/dad4048c-a340-492b-bace-96daaf7a32fa)
+
 
 ## Technologies used
 

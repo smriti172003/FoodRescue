@@ -24,7 +24,6 @@ A web application which is useful for management of food donation and collection
 - The application provides signup, login and logout functionalities.
 
 ### Donor Features
-
 - Donors make the donation request for food with basic details.
 - Donors' donation requests can be accepted or rejected and the status can be easily tracked by them.
 - Donors can view their current incomplete donations (if any).
@@ -37,10 +36,6 @@ A web application which is useful for management of food donation and collection
 ![image](https://github.com/user-attachments/assets/8336cef6-24ec-406c-8170-e6ba1531b9b2)
 ![image](https://github.com/user-attachments/assets/7e72d56c-7d0d-4990-bef9-d27c87e7767f)
 ![image](https://github.com/user-attachments/assets/4746fc02-4c91-43ea-aeb7-bfda97835d01)
-
-
-
-
 ### Admin Features
 
 - Admins receive all the requests made by donors.
@@ -50,6 +45,13 @@ A web application which is useful for management of food donation and collection
 - Admins can view all the donations that they have received.
 - Admins can also view all the agents in the application.
 - Admins can update their profile.
+
+  As a Admin
+  ![image](https://github.com/user-attachments/assets/184409d3-f05b-437c-bc50-405320b776b7)
+  ![image](https://github.com/user-attachments/assets/7ade3ca2-6ba2-414e-b9c7-72a3e3ed0486)
+  ![image](https://github.com/user-attachments/assets/c465f7a5-ce18-4cf6-9b92-317888cc4c26)
+  ![image](https://github.com/user-attachments/assets/f9f6b0a4-1b4b-4ef5-9fb3-90f276fe540e)
+
 
 ### Agent Features
 

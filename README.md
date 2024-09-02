@@ -31,6 +31,16 @@ A web application which is useful for management of food donation and collection
 - Donors can also view all their past donations.
 - Donors can update their profile.
 
+- As a Donor
+![image](https://github.com/user-attachments/assets/b04d085e-3b7e-43ca-85ea-5f0f3a0b236c)
+![image](https://github.com/user-attachments/assets/03b8ade1-6f92-4b08-ab66-886b1aa8a04a)
+![image](https://github.com/user-attachments/assets/8336cef6-24ec-406c-8170-e6ba1531b9b2)
+![image](https://github.com/user-attachments/assets/7e72d56c-7d0d-4990-bef9-d27c87e7767f)
+![image](https://github.com/user-attachments/assets/4746fc02-4c91-43ea-aeb7-bfda97835d01)
+
+
+
+
 ### Admin Features
 
 - Admins receive all the requests made by donors.
@@ -101,7 +111,6 @@ For running the application:
 ## Useful Links
 
 - Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
 - Nodejs download: https://nodejs.org/
 - VS Code download: https://code.visualstudio.com/
 - Tutorials: https://www.w3schools.com/

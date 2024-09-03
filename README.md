@@ -23,6 +23,13 @@ A web application which is useful for management of food donation and collection
 - Every user also have a dashboard where they can view several things in short summary.
 - The application provides signup, login and logout functionalities.
 
+DFD Diagrams:
+LEVEL-0
+![image](https://github.com/user-attachments/assets/3f4ced5a-8334-4333-98fd-5c790512a8a7)
+
+LEVEL-1
+![image](https://github.com/user-attachments/assets/dfa96d80-1f03-487e-9655-265cfef34fd2)
+
 ### Donor Features
 - Donors make the donation request for food with basic details.
 - Donors' donation requests can be accepted or rejected and the status can be easily tracked by them.

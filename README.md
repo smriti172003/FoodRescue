@@ -1,6 +1,8 @@
 # FoodRescue
 
 A web application which is useful for management of food donation and collection activities.  
+![image](https://github.com/user-attachments/assets/4d7644ec-4f19-49ed-b347-e819e1f49dd7)
+
 
 
 ## Table of Contents  

@@ -79,8 +79,15 @@ As a Donor
 
 
 Database Entries:
+
+DONATIONS:
 ![image](https://github.com/user-attachments/assets/2c8d78fc-d00b-4386-8a70-3971a5492da6)
 ![image](https://github.com/user-attachments/assets/5e812f42-0911-4888-af26-ce13c650789f)
+![image](https://github.com/user-attachments/assets/4f7a4a57-05cd-408e-a485-a2ae9c1068b9)
+
+USERS: AGENT DETAILS
+![image](https://github.com/user-attachments/assets/0113f304-612b-453d-b883-07ba25dc3e9e)
+![image](https://github.com/user-attachments/assets/f1e7bfcf-5d9a-48e6-aefc-00d15beeb6c4)
 
 
 ## Technologies used

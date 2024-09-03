@@ -78,6 +78,11 @@ As a Donor
   ![image](https://github.com/user-attachments/assets/dad4048c-a340-492b-bace-96daaf7a32fa)
 
 
+Database Entries:
+![image](https://github.com/user-attachments/assets/2c8d78fc-d00b-4386-8a70-3971a5492da6)
+![image](https://github.com/user-attachments/assets/5e812f42-0911-4888-af26-ce13c650789f)
+
+
 ## Technologies used
 
 - HTML
